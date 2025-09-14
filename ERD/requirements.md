@@ -76,7 +76,7 @@ As part of the ALX Airbnb Database Module, this task requires you to create an E
 
 ## ER Diagram
 <p align="center" width="100%">
-    <img height="400" width="600" src="https://github.com/vikkirkobane/alx-airbnb-database/diagram.svg">
+    <img height="400" width="600" src="https://github.com/vikkirkobane/alx-airbnb-database/ERD/diagram.svg">
 </p>
 
 ## Mermaid ER Diagram Code
